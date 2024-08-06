@@ -22,6 +22,4 @@ A developer who thinks, researches, creates, and connects to practical realizati
 ![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-navy?style=flat-square&logo=Tistory&link=https://eonhwa-theme.tistory.com/)
 ![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eonhwakim&show_icons=true&theme=radical)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eona)](https://solved.ac/eona/)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eonhwakim&show_icons=true&theme=radical)[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eona)](https://solved.ac/eona/)
