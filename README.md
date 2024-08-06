@@ -1,4 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=B41C3E&height=150&section=header&text= ♚H̤̮e̤̮l̤̮l̤̮o̤̮ " />
 <img src="https://capsule-render.vercel.app/api?type=waving&text=♚H̤̮e̤̮l̤̮l̤̮o̤̮&color=B41C3E&height=150&section=header" />
 
 # HI
