@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=Hello&color=gradient&animation=fadeIn&fontColor=d6ace6)"
+![header](https://capsule-render.vercel.app/api?text=Hello&color=gradient&animation=fadeIn&fontColor=d6ace6)
 
 
 #### Front Developer_EONA
