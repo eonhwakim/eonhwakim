@@ -7,8 +7,8 @@ Developers who create beneficial social values
 A developer who thinks, researches, creates, and connects to practical realization by web
 
 "Code is also a work of art.  
-&nbsp;Drawn not with pixels but with bits,   
-&nbsp;&nbsp;it gives birth to modern art in the digital world the moment it runs."
+&nbsp;&nbsp;&nbsp;&nbsp;Drawn not with pixels but with bits,   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;it gives birth to modern art in the digital world the moment it runs."
 
 🛠️ Stacks
 
