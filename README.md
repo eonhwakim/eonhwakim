@@ -20,8 +20,8 @@ A developer who thinks, researches, creates, and connects to practical realizati
 
 🐱 About Me
 
-![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eonhwa97@gmail.com)
-![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-navy?style=flat-square&logo=Tistory&link=https://eonhwa-theme.tistory.com/)
-![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)
-
+ <div align=center>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:eonhwa97@gmail.com)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://eonhwa-theme.tistory.com/)
+ </div>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eonhwakim&show_icons=true&theme=radical)[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eona)](https://solved.ac/eona/)
