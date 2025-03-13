@@ -1,7 +1,6 @@
-![header](https://capsule-render.vercel.app/api?text=Hello&color=gradient&animation=fadeIn&fontColor=d6ace6)
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&animation=fadeIn&fontColor=d6ace6&height=300&section=header&text=Hello" />
 
-
-#### Front Developer_EONA
+#### Frontend Developer_EONA
 
 Developers who create beneficial social values  
 A developer who thinks, researches, creates, and connects to practical realization by web
