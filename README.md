@@ -1,15 +1,21 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&animation=fadeIn&fontColor=d6ace6&height=300&section=header&text=good&nbsp;to&nbsp;see&nbsp;you." />
 
-#### Frontend Developer_EONA
+#### Frontend Developer_EONA...
 
-Developers who create beneficial social values  
-A developer who thinks, researches, creates, and connects to practical realization by web
+안녕하세요 프론트엔드 개발자 김언화입니다.  
+I'm eonhwa kim, a frontend developer.
 
-"Code is also a work of art.  
-&nbsp;&nbsp;&nbsp;&nbsp;Drawn not with pixels but with bits,   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;it gives birth to modern art in the digital world the moment it runs."
+> “It does not matter how slowly you go, as long as you do not stop.”  
+> 서두르지 말되, 멈추지 말라.
 
-May one day my efforts come together and shine like stars.
+
+작은 걸음이라도 멈추지 않고, 성장의 흔적을 남깁니다.  
+코드로 더 나은 경험을 만들며, 의미 있는 하루를 쌓아갑니다.
+
+Even the smallest steps leave traces of growth.
+Through code, I build better experiences and meaningful days.  
+
+
 
 🛠️ Stacks
 
