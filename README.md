@@ -32,4 +32,3 @@ Through code, I build better experiences and meaningful days.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eonhwakim&show_icons=true&theme=radical)&nbsp;&nbsp;&nbsp;&nbsp;
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eona)](https://solved.ac/eona/)
