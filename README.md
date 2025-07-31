@@ -23,7 +23,7 @@ Through code, I build better experiences and meaningful days.
 
 💪🏼 Tools
 
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=Vim&logoColor=white"/> <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual%20studio&logoColor=white"/> <img src="https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=Vim&logoColor=white"/> <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual%20studio&logoColor=white"/> <img src="https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white"/>
 
 🐱 About Me
 
@@ -31,4 +31,3 @@ Through code, I build better experiences and meaningful days.
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:eonhwa97@gmail.com)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eonhwakim&show_icons=true&theme=radical)&nbsp;&nbsp;&nbsp;&nbsp;
